@@ -1,11 +1,9 @@
+# Desktop Clippy Assistant - Requirements
+# Dependencies for 2025
+
 Pillow
 PyQt5
 psutil
 pywin32
 
-# pip install Pillow PyQt5 psutil pywin32
-# or
-# pip install -r requirements.txt
-
-
-# 2025
+# Install with: pip install Pillow PyQt5 psutil pywin32
